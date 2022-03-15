@@ -1,0 +1,101 @@
+title {
+    font-size: xx-large;
+    color:blanchedalmond;
+    font-family: 'Courier New', Courier, monospace
+
+}
+
+main {
+    padding: top 10px;
+    box-sizing: content-box;
+    width: 50%;
+    border: 5px solid red;
+    float: right;
+  }
+
+
+body {
+    background-color: #2d383a; 
+    
+  
+  
+
+}
+
+    .header { 
+        height: 120px;
+        background-image: url();
+        border-color: red;
+        border-style:ridge ;
+        text-size-adjust: xx-large ;
+        padding: 60px;
+        text-align:center;
+        background: hsl(167, 7%, 75%);
+        color: rgb(14, 11, 11);
+        font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  
+
+
+}
+
+.about-me { height: 120px
+    
+    
+    
+    
+    
+    
+    ;}
+
+section { font-size: medium;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+flex-direction: column-reverse;
+box-sizing: content-box;
+}
+
+footer { 
+margin-bottom: 100%;
+position: absolute;
+
+
+}
+
+
+h2 { 
+    text-decoration: wavy ;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: larger;
+
+
+
+}
+
+
+
+
+.container {
+    max-width: 120px;
+    margin:1%;
+    box-sizing: border-box;
+  width: 50%;
+  border: 5px solid red;
+  float: left;
+}
+
+
+
+.div { box-sizing: content-box;}
+
+
+.hero{ box-sizing: inherit;
+flex-flow: wrap;}
+
+     
+        
+
+
+
+
+
